@@ -1,0 +1,15 @@
+:root {
+  -webkit-user-select: none;
+  user-select: none;
+  font-family: sans-serif;
+}
+
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
